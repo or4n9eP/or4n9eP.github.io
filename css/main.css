@@ -1337,7 +1337,7 @@ pre code {
   transition: transform 1s ease-out;
 }
 .site-author-image:hover {
-  transform: rotateZ(360deg);
+  transform: rotateZ(720deg);
 }
 .site-author-name {
   color: var(--text-color);
