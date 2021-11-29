@@ -3,7 +3,7 @@
   <entry>
     <title>TEST</title>
     <url>/2021/11/28/TEST/</url>
-    <content><![CDATA[<p><img src="/2021/11/28/TEST/test01.png" alt="image"><br>test</p>
+    <content><![CDATA[<p><img src="/2021/11/28/TEST/1.png" alt="image"><br>test</p>
 <hr>
 <h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3><h4 id="4"><a href="#4" class="headerlink" title="4"></a>4</h4><h5 id="5"><a href="#5" class="headerlink" title="5"></a>5</h5><h6 id="6"><a href="#6" class="headerlink" title="6"></a>6</h6><h1 id="2-1"><a href="#2-1" class="headerlink" title="2"></a>2</h1><hr>
 <p><strong>test</strong> : **test**<br><em>test</em> : *test*</p>
@@ -35,14 +35,5 @@
 
 <p><a href="http://lemon77.top/">lemon77</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>CVE-2021-41379漏洞复现</title>
-    <url>/2021/11/29/CVE-2021-41379/</url>
-    <content><![CDATA[<p>CVE-2021-41379漏洞复现</p>
-]]></content>
-      <tags>
-        <tag>CVE</tag>
-      </tags>
   </entry>
 </search>
